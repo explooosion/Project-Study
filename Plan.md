@@ -11,6 +11,8 @@
 
   Ex. [ERP](http://www.weberp.org/)(也可拆為進銷存系統、會計財務、人事系統、[購物車](http://www.opencart.idv.tw/))
   ![](http://erp2000.com/images/framework01.jpg)　
+  
+  PS.系統也可以改使用網頁方式
     
     　
 2. 網站(website)
