@@ -9,7 +9,7 @@
 
 1. 應用程式(Application)
 
-  Ex. ERP(也可拆為進銷存、會計財務、人事系統、購物車)
+  Ex. [ERP](http://www.weberp.org/)(也可拆為進銷存系統()、會計財務、人事系統、購物車)
   　
     
     　
