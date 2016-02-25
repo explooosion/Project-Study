@@ -29,6 +29,7 @@
       Ex. 網路空間(Google Drive)、圖片上傳(imgur)、翻譯網、計數器提供
   　
 3. APP(android)
+
   Ex.遊戲、工具、社群
   
 #硬體
