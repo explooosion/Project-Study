@@ -14,7 +14,8 @@
     
     　
 2. 網站(website)
-  網站可以分為使用者(user)、開發者使用(developer)，此兩種開發方向：
+
+  網站可以分為使用者(user)、開發者(developer)，此兩種開發方向：
 
     + 使用者(user)
     
