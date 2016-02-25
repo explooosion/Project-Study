@@ -42,7 +42,7 @@
     　
 #硬體
 
-一般多為 [arduino](http://elesson.tc.edu.tw/md221/pluginfile.php/4151/mod_resource/content/1/arduino.pdf) 、 [Raspberry Pi](http://twcn.rs-online.com/web/generalDisplay.html?id=raspberrypi) 兩種
+  一般多為 [arduino](http://elesson.tc.edu.tw/md221/pluginfile.php/4151/mod_resource/content/1/arduino.pdf) 、 [Raspberry Pi](http://twcn.rs-online.com/web/generalDisplay.html?id=raspberrypi) 兩種
 
 1. 前者有碰過一點，可使用C#寫影像辨識、LED燈、四軸飛行器。
 
