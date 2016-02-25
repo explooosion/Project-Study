@@ -38,8 +38,8 @@
   Ex.遊戲、工具、社群
   
   ![](http://www.jmc.edu/exobiz2k16/dev/images/a1.jpg)
-    
-    　
+  
+  
 #硬體
 
   一般多為 [arduino](http://elesson.tc.edu.tw/md221/pluginfile.php/4151/mod_resource/content/1/arduino.pdf) 、 [Raspberry Pi](http://twcn.rs-online.com/web/generalDisplay.html?id=raspberrypi) 兩種
