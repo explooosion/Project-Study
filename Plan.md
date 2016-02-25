@@ -57,7 +57,7 @@
   
   [控制閃爍 C# 連接COM port](https://www.facebook.com/qi.lian.56/videos/10202822220955542/?l=1701046812625533479)
   
-  一塊arduino板子還滿便宜，一千內有找，除非你要好一點的，就另當別論(新手便宜就好)
+  一塊arduino板子還滿便宜，一千內有找，除非你要好一點的，就另當別論(新手便宜就好ww)
 
   ![](https://www.arduino-board.com/images/thumbs/arduino-zero.jpg)
 
