@@ -13,12 +13,13 @@
 　
 2. 網站(website)
   網站可以分為使用者(user)、開發者使用(developer)，此兩種開發方向：
-  使用者(user)
-  Ex. 社群網站、地理資訊系統(定位.圖層套疊)、公開資訊觀測站上資料分析、特定行業網站、拍賣網
-  開發者使用(developer)
-  Ex. 網站架設
-  資料寄存(datacenter)
-  Ex. 網路空間(Google Drive)、圖片上傳(imgur)、翻譯網、計數器提供
+
+    使用者(user)
+      Ex. 社群網站、地理資訊系統(定位.圖層套疊)、公開資訊觀測站上資料分析、特定行業網站、拍賣網
+    開發者使用(developer)
+      Ex. 網站架設
+    資料寄存(datacenter)
+      Ex. 網路空間(Google Drive)、圖片上傳(imgur)、翻譯網、計數器提供
 
 3. APP(android)
 Ex.遊戲、工具、社群
