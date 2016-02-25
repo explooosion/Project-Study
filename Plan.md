@@ -10,7 +10,7 @@
 1. 應用程式(Application)
 
   Ex. [ERP](http://www.weberp.org/)(也可拆為進銷存系統、會計財務、人事系統、[購物車](http://www.opencart.idv.tw/))
-  　
+  ![](http://www.precisionsourcing.com.au/wordpress/wp-content/uploads/2016/02/ERP.jpg)　
     
     　
 2. 網站(website)
@@ -20,7 +20,7 @@
     + 使用者(user)
     
     Ex. [社群網站](https://www.facebook.com/)、[地理資訊系統](http://map.tgos.nat.gov.tw/TGOSCLOUD/Web/Map/TGOSViewer_Map.aspx)(定位.圖層套疊)、[公開資訊觀測站上資料分析](http://mops.twse.com.tw/mops/web/index)、[特定行業網站](http://www.worldgymtaiwan.com/zh-tw/)、[拍賣網](http://world.taobao.com/)
-
+  ![](http://blog.phimedia.tv/images/get-in-social-network-1.jpg)
     + 開發者使用(developer)
     
     Ex. [網站架設](http://www.wopop.com/)
@@ -34,7 +34,7 @@
 3. APP([android](http://readandplay.pixnet.net/blog/post/140001110-%E7%AC%AC%E4%B8%80%E6%94%AFandroid-app%E7%A8%8B%E5%BC%8F%E6%95%99%E5%AD%B8))
   環境架設很麻煩就是了，修改環境參數path，還要安裝一堆sdk，設計上還有android版本相容問題
   Ex.遊戲、工具、社群
-  　
+  ![](http://www.jmc.edu/exobiz2k16/dev/images/a1.jpg)
     
     　
 #硬體
@@ -43,4 +43,9 @@
 
 1. 前者有碰過一點，可使用C#寫影像辨識、LED燈、四軸飛行器。
 
+一塊arduino板子還滿便宜，一千內有找，除非你要好一點的，就另當別論(新手便宜就好)
+![](https://www.arduino-board.com/images/thumbs/arduino-zero.jpg)
+![](http://www.diy-robots.com/wp-content/uploads/2012/06/IMG_4905.jpg)
+  
+  
 2. 後者不太熟悉。
