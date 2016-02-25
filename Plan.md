@@ -27,11 +27,15 @@
     資料寄存(datacenter)
     
       Ex. 網路空間(Google Drive)、圖片上傳(imgur)、翻譯網、計數器提供
-
+  
+  
 3. APP(android)
 Ex.遊戲、工具、社群
   
 #硬體
+
 一般多為arduino、Raspberry Pi兩種
+
 前者有碰過一點，可使用C#寫影像辨識、LED燈、四軸飛行器。
+
 後者不太熟悉。
