@@ -10,7 +10,7 @@
 1. 應用程式(Application)
 
   Ex. [ERP](http://www.weberp.org/)(也可拆為進銷存系統、會計財務、人事系統、[購物車](http://www.opencart.idv.tw/))
-  ![](http://www.precisionsourcing.com.au/wordpress/wp-content/uploads/2016/02/ERP.jpg)　
+  ![](http://erp2000.com/images/framework01.jpg)　
     
     　
 2. 網站(website)
