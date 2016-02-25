@@ -6,7 +6,6 @@
 
 #軟體
 軟體主要又分為應用程式(Application)、網站(website)、APP(android)
-
 1. 應用程式(Application)
 Ex. ERP(也可拆為進銷存、會計財務、人事系統、購物車)
 　
