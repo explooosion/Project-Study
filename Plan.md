@@ -26,7 +26,9 @@
     
     Ex. [社群網站](https://www.facebook.com/)、[地理資訊系統](http://map.tgos.nat.gov.tw/TGOSCLOUD/Web/Map/TGOSViewer_Map.aspx)(定位.圖層套疊)、[公開資訊觀測站上資料分析](http://mops.twse.com.tw/mops/web/index)、[特定行業網站](http://www.worldgymtaiwan.com/zh-tw/)、[拍賣網](http://world.taobao.com/)
   ![](http://blog.phimedia.tv/images/get-in-social-network-1.jpg)
-    + 開發者使用(developer)
+    + 開發者(developer)
+    
+    就是我們搜尋時會看到一些：免費網站空間架設，個人部落格等。
     
     Ex. [網站架設](http://www.wopop.com/)
 
